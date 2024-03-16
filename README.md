@@ -1,15 +1,11 @@
 ### Felipe Melo
 
 ##
-
-This is the place where my developer history is registered.
-
-- 💬 I'm interested at Software Development, Data Science and Cibersecurity
+- 💬 I'm interested at Software Development, Data Science and Cybersecurity
 - 🔭 Presently working on Polo Comércio Internacional
 - 🌱 I’m currently learning more about Cloud Computing, .NET and VBA
 - ⚡ My hobbies are read, play chess, draw and go out with my dog and my girlfriend. I also know all countries capitals
-
-"I hope to be stronger tomorrow"
+##
 
 <div>
   <a href="https://github.com/fmelods">
@@ -17,10 +13,27 @@ This is the place where my developer history is registered.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmelods&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Melo-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Melo-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Melo-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Melo-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Melo-Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Melo-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Melo-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Melo-VB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+  <img align="center" alt="Melo-GoogleCloud" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="Melo-.Net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+  <img align="right" alt="Melo-gif" height="200" width="200" src="https://imgur.com/GnIy7FC.gif">
+          
 ##
 
 <div>
   <a href = "mailto:felipemelodesousa4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-melo-de-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/melo_once/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank>"></a>
-</div>  
+</div>
+
+##
+
+"I hope to be stronger tomorrow"
