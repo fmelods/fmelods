@@ -35,7 +35,6 @@
   <a href="https://www.reddit.com/user/Skeller_Yeager" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank>"></a>
   <a href="https://open.spotify.com/user/veksbsoqbsiwb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank>"></a>
   <a href="https://steamcommunity.com/profiles/76561198336000955/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank>"></a>
-  <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=w3O6OjTx583vifkKpP575-ajoJpIYM-oeB8GlJrS2_ToME17b8y2VAHs9IHGxoFa_O9t4UjuyjTf6R-4mvcIT3XCRBo1&wa=wsignin1.0" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank>"></a>
 </div>
 
 ##
