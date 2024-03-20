@@ -2,7 +2,7 @@
 
 - 💬 I'm interested at Software Development, Data Science and Cybersecurity
 - 🔭 Presently working on Polo Comércio Internacional as a Developer
-- 🌱 I’m currently learning more about Cloud Computing, VBA and .NET
+- 🌱 I’m currently learning more about Cloud Computing, Big Data, SQL, VBA and .NET
 - ⚡ My hobbies are read, play chess, draw and go out with my dog and my girlfriend. I also know all countries capitals
 ##
 
