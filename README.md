@@ -24,7 +24,6 @@
   <img align="center" alt="Melo-Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Melo-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Melo-GoogleCloud" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  <img align="right" alt="Melo-gif" height="200" width="200" src="https://imgur.com/GnIy7FC.gif">
           
 ##
 
@@ -32,10 +31,6 @@
   <a href = "mailto:felipemelodesousa4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-melo-de-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/melo_once/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank>"></a>
-  <a href="https://www.reddit.com/user/Skeller_Yeager" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank>"></a>
-  <a href="https://open.spotify.com/user/veksbsoqbsiwb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank>"></a>
-  <a href="https://steamcommunity.com/profiles/76561198336000955/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank>"></a>
-</div>
 
 ##
 
