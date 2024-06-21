@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/fmelods">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmelods&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmelods&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmelods&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
