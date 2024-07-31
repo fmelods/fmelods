@@ -3,7 +3,7 @@
 - 💬 I'm interested at Software Development, Data Science and Cybersecurity
 - 🔭 Presently working on Polo Comércio Internacional as a Developer
 - 🖊️ Studying Systems Analysis and Development at FIAP
-- 🌱 I’m currently learning more about SQL, C#, VB.NET Big Data and Cloud Computing
+- 🌱 I’m currently learning more about SQL, C#, VB.NET, Big Data and Cloud Computing
 - ⚡ My hobbies are read, play chess, draw and go out with my dog and my girlfriend. I also know all countries capitals
 ##
 
