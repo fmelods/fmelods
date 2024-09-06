@@ -2,7 +2,7 @@
 
 - 💬 I'm interested at Software Development, Data Science and Cybersecurity
 - 🔭 Presently looking for opportunities as a developer
-- 🖊️ Studying Systems Analysis and Development at FIAP
+- 🖊️ Studying Systems Analysis and Development at FIAP and working as a freelancer
 - 🌱 I’m currently learning more about SQL, C#, VB.NET, Big Data and Cloud Computing
 - ⚡ My hobbies are read, play chess, draw and go out with my dog and my girlfriend. I also know all countries capitals
 ##
