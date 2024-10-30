@@ -4,7 +4,7 @@
 - 🔭 I have experience with SQL, VB.NET and C# and i am presently looking for opportunities as a developer
 - 🖊️ Studying Systems Analysis and Development at FIAP and working as a freelancer
 - 🌱 I am currently learning more about Python, Java, React and Delphi
-- ⚡ My hobbies are read, play chess, draw and go out with my dog and my girlfriend. I also know all countries capitals
+- ⚡ My hobbies are read, play chess, draw and go out with my dog and my girlfriend.
 ##
 
 <div>
