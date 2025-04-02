@@ -1,7 +1,7 @@
 # Felipe Melo
 
 - 💬 I am interested at Software Development, Data Science, Big Data, Cloud Computing and Cybersecurity
-- 🔭 I have experience with relational databases using SQL, desktop applications with VB.NET, C# and Delphi
+- 🔭 I have experience with relational databases using SQL and desktop applications with VB.NET, C# and Delphi
 - 🖊️ Studying Systems Analysis and Development at FIAP and currently learning more about Python, Java and React
 - ⚡ My hobbies are read, play chess, draw and hangout with my dog and my girlfriend
 ##
