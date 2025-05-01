@@ -1,4 +1,4 @@
-# HELLO WORLD
+# Hello World
 
 - 💬 I am interested at Software Development, Data Science, Big Data, Cloud Computing and Cybersecurity
 - 🔭 I have experience with relational databases using SQL and desktop applications with VB.NET, C# and Delphi
