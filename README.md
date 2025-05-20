@@ -1,6 +1,6 @@
 # Hello World
 
-- 💬 Desenvolvedor de Software Full Stack, atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP e com experiência em gerenciamento de banco de dados relacionais com SQL e em desenvolvimento de projetos em Windows Forms com VB.NET, C# e Delphi. Além disso, tenho interesse em aprimorar minhas habilidades em programação com Java, Python, Cloud Computing e Cybersecurity.
+Desenvolvedor de Software Full Stack, atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP e com experiência em gerenciamento de banco de dados relacionais com SQL e em desenvolvimento de projetos em Windows Forms com VB.NET, C# e Delphi. Além disso, tenho interesse em aprimorar minhas habilidades em programação com Java, Python, Cloud Computing e Cybersecurity.
 ##
 
 <div>
