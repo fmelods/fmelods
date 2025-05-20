@@ -1,8 +1,6 @@
 # Hello World
 
-- 💬 I am interested at Software Development, Data Science, Big Data, Cloud Computing and Cybersecurity
-- 🔭 I have experience with relational databases using SQL and desktop applications with VB.NET, C# and Delphi
-- 🖊️ Studying Systems Analysis and Development at FIAP and currently learning more about Python, Java and React
+- 💬 Desenvolvedor de Software Full Stack, atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP e com experiência em gerenciamento de banco de dados relacionais com SQL e em desenvolvimento de projetos em Windows Forms com VB.NET, C# e Delphi. Além disso, tenho interesse em aprimorar minhas habilidades em programação com Java, Python, Cloud Computing e Cybersecurity.
 ##
 
 <div>
