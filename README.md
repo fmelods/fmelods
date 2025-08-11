@@ -5,8 +5,8 @@ Desenvolvedor de Software Full Stack e graduando em Análise e Desenvolvimento d
 
 <div>
   <a href="https://github.com/fmelods">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmelods&show_icons=true&theme=dracula&include_all_comits=true&count_private=true_width=490"/></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmelods&langs_count=16&theme=dracula&layout=compact&card_width=490"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmelods&show_icons=true&theme=dracula&include_all_comits=true&count_private=true_width=500"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmelods&langs_count=16&theme=dracula&layout=compact&card_width=500"/>
 </div>
 
 <div style="display: inline_block"><br>
