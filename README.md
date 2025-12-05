@@ -3,12 +3,6 @@
 Desenvolvedor de Software Full Stack e graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo experiência prévia em desenvolvimento Windows Forms com C#, VB.NET e Delphi, além de sólida vivência em bancos de dados relacionais como Oracle, MySQL e SQL Server.
 ##
 
-<div>
-  <a href="https://github.com/fmelods">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmelods&show_icons=true&theme=dracula&include_all_comits=true&count_private=true_width=450"/></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmelods&langs_count=16&theme=dracula&layout=compact&card_width=570"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Melo-SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="Melo-SQLDeveloper" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
