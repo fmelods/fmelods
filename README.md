@@ -1,6 +1,6 @@
 # Olá Mundo
 
-Desenvolvedor de Software Full Stack e graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo experiência prévia em desenvolvimento Windows Forms com C#, VB.NET e Delphi, além de sólida vivência em bancos de dados relacionais como Oracle, MySQL e SQL Server.
+Desenvolvedor de Software Full Stack e graduado em Análise e Desenvolvimento de Sistemas pela FIAP. Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo experiência prévia em desenvolvimento Windows Forms com C#, VB.NET e Delphi, além de sólida vivência em bancos de dados relacionais como Oracle, MySQL e SQL Server.
 ##
 
 <div style="display: inline_block"><br>
