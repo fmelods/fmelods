@@ -1,8 +1,13 @@
 # Olá Mundo
 
-Desenvolvedor de Software Full Stack e graduado em Análise e Desenvolvimento de Sistemas pela FIAP. Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo experiência prévia em desenvolvimento Windows Forms com C#, VB.NET e Delphi, além de sólida vivência em bancos de dados relacionais como Oracle, MySQL e SQL Server.
+**`Desenvolvedor FullStack`**
+
+Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo experiência prévia em desenvolvimento Windows Forms com C#, VB.NET e Delphi, além de sólida vivência em bancos de dados relacionais como Oracle, MySQL e SQL Server.
+> Graduado em Análise e Desenvolvimento de Sistemas pela FIAP
+
 ##
 
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Melo-SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="Melo-SQLDeveloper" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
@@ -20,6 +25,18 @@ Desenvolvedor de Software Full Stack e graduado em Análise e Desenvolvimento de
           
 ##
 
+### 📊 Estatísticas
+<div>
+  <p align="center">
+    <a href="https://github.com/fmelods">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmelods&show_icons=true&theme=radical&include_all_comits=true&count_private=true_width=500"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmelods&langs_count=10&theme=radical&layout=compact&card_width=500"/>
+  </p>
+</div>
+
+##
+
+### 📬 Contatos
 <div>
   <a href = "mailto:felipemelodesousa4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-melo-de-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
