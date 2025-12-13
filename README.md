@@ -1,17 +1,15 @@
 # Olá Mundo
 
-
-**`Desenvolvedor de Software FullStack`**
-
+`Desenvolvedor de Software FullStack`
 
 Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo experiência prévia em desenvolvimento Windows Forms com C#, VB.NET e Delphi, além de sólida vivência em bancos de dados relacionais como Oracle, MySQL e SQL Server.
 
 > Graduado em Análise e Desenvolvimento de Sistemas pela FIAP
 
-##
+---
 
 ### 🤖 Linguagens e Tecnologias
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Melo-SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="Melo-SQLDeveloper" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" alt="Melo-Oracle" height="50" width="59" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
@@ -25,8 +23,9 @@ Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo exp
   <img align="center" alt="Melo-Javascript" height="50" width="59" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Melo-React" height="50" width="59" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Melo-Azure" height="50" width="59" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+</div>
           
-##
+---
 
 ### 📊 Estatísticas
 <div>
@@ -37,9 +36,10 @@ Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo exp
   </p>
 </div>
 
-##
+---
 
 ### 📬 Contatos
 <div>
   <a href = "mailto:felipemelodesousa4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-melo-de-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
