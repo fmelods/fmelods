@@ -114,7 +114,7 @@ Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo exp
 
 ### 📊 Estatísticas
 
-<p style="display: flex; gap: 20px;">
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -126,7 +126,7 @@ Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo exp
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitxrr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitxrr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 </p>
 
