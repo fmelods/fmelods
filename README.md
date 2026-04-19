@@ -20,11 +20,11 @@ Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo exp
 />
 <img 
     align="left" 
-    alt="Oracle"
-    title="Oracle" 
+    alt="SQL Developer"
+    title="SQL Developer" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />
 <img 
     align="left" 
