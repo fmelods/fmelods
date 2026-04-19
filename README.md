@@ -114,12 +114,11 @@ Atualmente atuo como Consultor SAP na Inetum, com foco em ABAP Cloud. Possuo exp
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex; gap: 20px;">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=fmelods&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
