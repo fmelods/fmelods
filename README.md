@@ -2,7 +2,7 @@
 
 `Desenvolvedor FullStack`
 
-Consultor SAP na Inetum, com experiência em SAP S/4HANA, ABAP Cloud, RAP, Fiori, Python, SQL e Azure. Atuo no desenvolvimento e sustentação de soluções corporativas, automações, integrações, processamento de dados e migração de sistemas ECC para S/4HANA. Possuo também experiência com C#, VB.NET, Delphi e bancos de dados relacionais. Graduado em Análise e Desenvolvimento de Sistemas pela FIAP.
+Consultor SAP na Inetum, com experiência em SAP S/4HANA, ABAP Cloud, RAP, Fiori, Python, SQL e Azure. Atuo no desenvolvimento e sustentação de soluções corporativas, automações, integrações, processamento de dados e migração de sistemas ECC para S/4HANA. Possuo também experiência com C#, VB.NET, Delphi e bancos de dados relacionais.
 
 > Graduado em Análise e Desenvolvimento de Sistemas pela FIAP
 
